@@ -1,0 +1,4 @@
+#Fri May 12 15:53:20 CST 2017
+base.0=D\:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

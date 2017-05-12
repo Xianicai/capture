@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\acd251b7d7bc42c431b607aa3ae20d4e2b2f917f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\acd251b7d7bc42c431b607aa3ae20d4e2b2f917f\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\acd251b7d7bc42c431b607aa3ae20d4e2b2f917f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\acd251b7d7bc42c431b607aa3ae20d4e2b2f917f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\acd251b7d7bc42c431b607aa3ae20d4e2b2f917f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\acd251b7d7bc42c431b607aa3ae20d4e2b2f917f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Capture</string>
+    <string name="record">录制</string>
+    <string name="stop">停止</string>
+    <string name="fx">特技</string>
+    <string name="back_facing">前置摄像头</string>
+    <string name="flush">开启补光灯</string>
+    <string name="auto_focus">开启自动聚焦</string>
+    <string name="zoom">缩放</string>
+    <string name="exporsure">曝光补偿</string>
+    <string name="preview_failed">启动预览失败</string>
+</resources>

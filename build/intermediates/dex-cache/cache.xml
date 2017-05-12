@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\test_workSpace\NvStreamingSdk_Android_1.2.0_20170511\lib\android_jar\QtAndroid-bundled.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5edad61fbc635ec1406ab9c2389987ffcd841813">
+        <dex dex="D:\Android\test_workSpace\NvStreamingSdk_Android_1.2.0_20170511\samples\android\capture\app\build\intermediates\transforms\dex\debug\folders\1000\2\QtAndroid-bundled_961c249156ed51eb1d953060d9b869ba3540f83a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\test_workSpace\NvStreamingSdk_Android_1.2.0_20170511\samples\android\capture\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b838e907648144e7ba0331c6b65a9f5c3a71dc8">
+        <dex dex="D:\Android\test_workSpace\NvStreamingSdk_Android_1.2.0_20170511\samples\android\capture\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b53cb760e644c339ca268c0798f4586a6cc9ac53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\test_workSpace\NvStreamingSdk_Android_1.2.0_20170511\lib\android_jar\NvAndroidStreamingSdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28cf10bcb1cfc8f29a51c9646f9802917dcd1c5a">
+        <dex dex="D:\Android\test_workSpace\NvStreamingSdk_Android_1.2.0_20170511\samples\android\capture\app\build\intermediates\transforms\dex\debug\folders\1000\2\NvAndroidStreamingSdk_63447c94ffaaecdd9d118c8218cc4e81bb18383a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\test_workSpace\NvStreamingSdk_Android_1.2.0_20170511\samples\android\capture\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Android\test_workSpace\NvStreamingSdk_Android_1.2.0_20170511\samples\android\capture\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_23ad2474a6ed6a91a0470a063784d94d5c60036c\classes.dex" />
+    </item>
+
+</items>

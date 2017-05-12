@@ -1,0 +1,7 @@
+#Fri May 12 15:53:21 CST 2017
+base.0=D\:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_23ad2474a6ed6a91a0470a063784d94d5c60036c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b53cb760e644c339ca268c0798f4586a6cc9ac53\\classes.dex
+base.1=D\:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b53cb760e644c339ca268c0798f4586a6cc9ac53
+file.0=D\:\\Android\\test_workSpace\\NvStreamingSdk_Android_1.2.0_20170511\\samples\\android\\capture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_23ad2474a6ed6a91a0470a063784d94d5c60036c\\classes.dex

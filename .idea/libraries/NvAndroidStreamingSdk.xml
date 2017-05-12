@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NvAndroidStreamingSdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../lib/android_jar/NvAndroidStreamingSdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
